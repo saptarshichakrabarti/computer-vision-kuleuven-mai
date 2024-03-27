@@ -1,4 +1,4 @@
-# cv-kul
+# Computer Vision assignemnts for the Master of AI programme
 Assignments from the Computer Vision (H02A5A) course at KU Leuven.
 
 ## Assignment 1 - Individual Assignment
